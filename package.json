@@ -1,0 +1,19 @@
+{
+  "name": "scatch",
+  "version": "1.0.0",
+  "description": "1.npm init -y ==>index.js change to app.js\r 2.express,mongoose\r 3.jwt cookie-parser and bcrypt\r 4.multer to upload the files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
