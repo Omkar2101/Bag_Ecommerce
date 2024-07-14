@@ -1,8 +1,8 @@
 {
-  "name": "scatch",
+  "name": "bag_ecommerce",
   "version": "1.0.0",
   "description": "1.npm init -y ==>index.js change to app.js\r 2.express,mongoose\r 3.jwt cookie-parser and bcrypt\r 4.multer to upload the files",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

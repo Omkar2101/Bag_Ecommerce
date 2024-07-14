@@ -19,3 +19,28 @@
 9.file->.gitignore
 
 #initialise using the git
+
+#creating the models
+1.creating the usermodel
+fullname-string
+email-string
+password-string
+cart-array
+isAdmin-boolean
+orders-array
+contact-number
+picture-db (will stored in db)
+
+2.creating the product model
+image
+name
+price
+discount
+bgcolor
+panelcolor
+textcolor
+
+
+3.mongodb connection
+4.creating routes
+owners,users,products router
